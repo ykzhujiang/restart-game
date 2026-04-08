@@ -1,0 +1,55 @@
+{
+  "verdict": "PASS",
+  "style": "realistic",
+  "assets": [
+    {
+      "label": "陆远",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 4,
+      "quality_ok": true,
+      "issues": [
+        "黑色运动护腕戴在了角色的左手（画面右侧），与描述要求的右手不符。"
+      ],
+      "retry_suggestion": null
+    },
+    {
+      "label": "胖子",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 4,
+      "quality_ok": true,
+      "issues": [
+        "图像整体呈现黑白/单色调，未能体现描述中明确要求的‘蓝白’格子衬衫的颜色特征"
+      ],
+      "retry_suggestion": null
+    },
+    {
+      "label": "沈总",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "孵化器路演室",
+      "type": "scene",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    }
+  ],
+  "summary": "4/4 assets passed"
+}
