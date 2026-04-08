@@ -33,10 +33,11 @@
     },
     "step3": {
       "status": "done",
-      "started_at": "2026-04-08T10:53:32.043609+00:00",
-      "completed_at": "2026-04-08T10:57:17.968968+00:00",
+      "started_at": "2026-04-08T19:09:00+08:00",
+      "completed_at": "2026-04-08T19:10:00+08:00",
       "output": "assets/asset-map.json",
-      "asset_count": 4
+      "asset_count": 4,
+      "note": "Regenerated: fixed character names to match storyboard, ensured East Asian features"
     },
     "step4": {
       "status": "not_started"
