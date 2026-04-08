@@ -11,7 +11,8 @@
       "description_match": 4,
       "quality_ok": true,
       "issues": [
-        "黑色运动护腕戴在了角色的左手（画面右侧），与描述要求的右手不符。"
+        "耳机戴在右耳而非描述要求的左耳",
+        "左手腕佩戴了类似智能手表的物品，而非描述要求的右手腕戴电竞护腕"
       ],
       "retry_suggestion": null
     },
@@ -21,11 +22,9 @@
       "verdict": "PASS",
       "style_ok": true,
       "setting_match": true,
-      "description_match": 4,
+      "description_match": 5,
       "quality_ok": true,
-      "issues": [
-        "图像整体呈现黑白/单色调，未能体现描述中明确要求的‘蓝白’格子衬衫的颜色特征"
-      ],
+      "issues": [],
       "retry_suggestion": null
     },
     {
@@ -40,7 +39,7 @@
       "retry_suggestion": null
     },
     {
-      "label": "孵化器路演室",
+      "label": "路演大厅",
       "type": "scene",
       "verdict": "PASS",
       "style_ok": true,
